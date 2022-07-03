@@ -9,6 +9,7 @@ Limit the Conditions under which the Respawn Point can be Set.
 
 ## 一緒に入れてね / Dependencies
 
+Oh! My Dat!(<https://github.com/Ai-Akaishi/OhMyDat>)  
 Anywhere Function(<https://github.com/Ai-Akaishi/AnywhereFunction>)  
 Anywhere Teleport(<https://github.com/Ai-Akaishi/AnywhereTeleport>)  
 
